@@ -1,2 +1,2 @@
 # Trabalho_SD
-Integrações 1 e 2 do trabalho de Sistemas Digitais
+Integrações do trabalho de Sistemas Digitais
